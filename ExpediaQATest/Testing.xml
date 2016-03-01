@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="ExpediaQATest">
+	<test name="TestCase">
+		<classes>
+			<class name="TestCase.HomePageTest" />
+		</classes>
+	</test>
+</suite>
